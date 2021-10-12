@@ -4,27 +4,27 @@
 
 Direcotiro de _**Base de Datos:**_
 
-[Link](Base de Datos) 
+[Link](Base_de_Datos) 
 
 ---
 ## 🌐 Lenguaje de Marcas 🌐
 
 Direcotrio de _**Lenguaje de Marcas**_
 
-- 🔗 [Link]()
+- 🔗 [Link](Lenguaje_de_Marcas)
 
 ---
 ## 📃 Programación 📃
 
 Direcotrio de _**Programación**_
 ---
-- 🔗 [Link]()
+- 🔗 [Link](Programacion)
 
 ## 💻 Sistemas Informaticos 💻
 
 Direcotrio de _**Sistemas Informaticos**_
 
-- 🔗 [Link]()
+- 🔗 [Link](Sistemas_Informaticos)
 
 
 ---
