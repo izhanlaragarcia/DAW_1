@@ -1,5 +1,7 @@
 # Discos Duros y Algo mas
 
+- [] No acabado
+
 Esta aquitividad es para calcular el tamaño de unos discos duros. Esta es la actividad principal, pero para añadir algo de dificualtada tenemos que meternos en el servidor de pruebas de [@Maximo Fernandez Riera](https://github.com/maximofernandezriera), mediante el modo ssh, de la cmd de linux
 
 
