@@ -1,0 +1,27 @@
+/* Ponemos algo de estilo al header */
+header{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-right: 60%;
+}
+/* Configuramos nuestra lista de elementos */
+#lista_elemento{
+    position: absolute;
+    bottom: 300px;
+    margin-left: 70%;
+}
+/* Aqui le diremos que la lista de elementos tienen que ser de tipo alpha en minusculas. */
+.alpha{
+    list-style-type: lower-alpha;
+}
+/* Ponemos el tamaño de nuestras imagenes como queremos  */
+img{
+    height: 30px;
+    width: 50px;
+}
+/* Ponemos el css al final de todo */
+footer{
+    position: absolute;
+    bottom: 30px;
+}
