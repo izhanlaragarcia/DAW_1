@@ -20,7 +20,7 @@ Esta actividad 7 consiste en la posicion de css.
 
 ---
 ### Final
-![](../img/final.PNG)
+![](img/final.PNG)
 
 ---
 ### Firma 
