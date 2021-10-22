@@ -16,7 +16,7 @@ Esta actividad 7 consiste en la posicion de css.
 
 ### PDF
 **Aqui podemos ver los ejercicios a realizar para esta activiada:**
-- [PDF](Actividad_7_Bloc1.pdf)
+- [PDF](https://github.com/izhanlaragarcia/Actividades_DAW_1/blob/main/Lenguaje_de_Marcas/introduccion/Actividad_7/Activitat_7_Bloc1.pdf)
 
 ---
 ### Final
