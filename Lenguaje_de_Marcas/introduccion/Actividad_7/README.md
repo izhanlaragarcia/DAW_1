@@ -2,7 +2,9 @@
 
 
 ### Configuración
+
 [x] Tarea finalizada
+
 [ ] Readme acabado
 
 ## Ejercicios
