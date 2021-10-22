@@ -1,7 +1,7 @@
-## Actividad 7
+## 📖 Actividad 7
 
 
-### Configuración
+###  ⚙️ Configuración
 
 - [x] Tarea finalizada
 - [ ] Readme acabado
@@ -20,6 +20,7 @@ Esta actividad 7 consiste en la posicion de css.
 
 ---
 ### Final
+⚠️ Por aqui os dejo como tendria que quedar mas o menos la pagina final, pero recordar que no tenemos porque alinear las cosas asi, podemos ponerlo como queramos. Ya he elegido esta opción.
 ![](img/final.PNG)
 
 ---
