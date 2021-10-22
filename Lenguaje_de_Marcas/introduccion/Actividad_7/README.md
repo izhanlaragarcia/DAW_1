@@ -3,9 +3,8 @@
 
 ### Configuración
 
-[x] Tarea finalizada
-
-[ ] Readme acabado
+- [x] Tarea finalizada
+- [ ] Readme acabado
 
 ## Ejercicios
 
