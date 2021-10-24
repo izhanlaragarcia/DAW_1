@@ -1,0 +1,41 @@
+/* Le diremos que todo tiene que ser de margen 0, con la imagen de fondo, el tipo de letra
+georgia, cambria, serif y el tamaño del texto 16px  */
+*{
+    margin: 0%;
+    background-image: url(../img/fondodepantalla_actividad8.jpg);
+    font-family: Georgia, 'Cambria', serif;
+    font-size: 16px;
+    /* Añadido extra para que el background no se repita y este en toda la pagina */
+    background-attachment: fixed;
+    background-size: 200%;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Los titulos de nivel 1 (h1) le diremos que tienen las siguientes caracteristicas:*/
+h1{
+    color: #f00;
+    font-family: Verdana, 'Calibri', sans-serif;
+    font-size: 32px;
+}
+/* Los titulos de nivel 2 (h2) le diremos que tienen las siguientes caracteristicas:*/
+h2{
+    color: #a00;
+    font-family: Verdana, 'Calibri', sans-serif;
+    font-size: 24px;
+}
+/* Una vez definida la clase de los parrafos "par" le daremos a esta clase las siguientes 
+caracteristicas */
+.par{
+    font-style: italic;
+    text-decoration: underline;
+    border: 4px solid cornflowerblue;
+}
+/* Para las listas no ordenadas les daremos un color de fondo gris */
+ul{
+    background-color: gray;
+}
