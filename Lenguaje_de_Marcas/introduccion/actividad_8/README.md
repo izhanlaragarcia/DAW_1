@@ -15,10 +15,6 @@
 
 ---
 
-### Notas ⚠️
-
----
-
 ### Firma
 
 ✍️ [Izhan Lara Garcia](https://github/izhanlaragarcia.com)
