@@ -4,7 +4,6 @@
 ## Configuración 🧰
 - [x] Finalizado
 
----
 
 ## Ejercicios
 
