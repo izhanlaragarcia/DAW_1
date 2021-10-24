@@ -2,7 +2,7 @@
 
 
 ## Configuración 🧰
-[x] Finalizado
+- [x] Finalizado
 
 ---
 
