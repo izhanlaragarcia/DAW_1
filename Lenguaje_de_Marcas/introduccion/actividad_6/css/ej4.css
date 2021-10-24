@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+}
+
+#par p{
+    font-style: italic;
+}
+a{
+    color: blue;
+}
+
+em{
+    background-color: #ffffcc;
+}
+
+em .especial{
+    border: 1px solid;
+    padding: .1em;
+}

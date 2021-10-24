@@ -1,0 +1,24 @@
+/* Ejercicio 1 */
+*{
+    font-size: 12pt;
+    font-family: 'Times New Roman';
+    background-color: cornflowerblue;
+    color: aqua;
+}
+/* Ejercicio 2 */
+.clase1{
+    color: green; /* Aqui le diremos el color de las letras con el nombre del color*/
+    background-color: #ff80c0; /* Aqui le daremos el color del fondo con la manera 
+    hexadecimal */
+}
+.clase2{
+    color: red;
+    background-color: gray;
+}
+
+/* Ejercicio 3 */
+.titulo_centrado{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+}
