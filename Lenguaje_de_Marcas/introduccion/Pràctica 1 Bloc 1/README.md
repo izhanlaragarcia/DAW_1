@@ -130,14 +130,10 @@ Esta informacion es realicona con funciones, ya sea de JS, HTMl o CSS y es sacad
 
 
 > https://emojipedia.org/ (emoticonos extras)
-   
-> https://www.brandcrowd.com/maker/tag/brand  (usado para crear el logo de la pagina)
-   
-> https://www.hostinger.es/tutoriales/mejores-fuentes-html  (usada para dieferentes fuentes de letra)
-   
+        
 > https://www.heropatterns.com/  (fondos de patrones)
    
-> https://api.jquery.com/
+> https://api.jquery.com/ (para el responsive)
 
 ---
 
