@@ -116,8 +116,11 @@ Esta informacion es realicona con funciones, ya sea de JS, HTMl o CSS y es sacad
 
 
 > https://www.w3schools.com/
+   
 > https://tecnops.es/sistema-rutas-solo-javascript/
+   
 > https://www.youtube.com/
+   
 > https://www.ejemplode.com/18-css/502-ejemplo_de_fondo_fijo_en_css.html
 
 
@@ -127,9 +130,13 @@ Esta informacion es realicona con funciones, ya sea de JS, HTMl o CSS y es sacad
 
 
 > https://emojipedia.org/ (emoticonos extras)
+   
 > https://www.brandcrowd.com/maker/tag/brand  (usado para crear el logo de la pagina)
+   
 > https://www.hostinger.es/tutoriales/mejores-fuentes-html  (usada para dieferentes fuentes de letra)
+   
 > https://www.heropatterns.com/  (fondos de patrones)
+   
 > https://api.jquery.com/
 
 ---
