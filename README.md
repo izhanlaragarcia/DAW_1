@@ -1,36 +1,37 @@
-# 📚 Actividades 📚
+#Actividades
 ---
-## 🖥️ Base de Datos 🖥️
+## Base de Datos
 
 Directorio de _**Base de Datos:**_
 
-- 🔗 [Link](Base_de_Datos) 
+- [Link](Base_de_Datos) 
 
 ---
-## 🌐 Lenguaje de Marcas 🌐
+## Lenguaje de Marcas
 
 Directorio de _**Lenguaje de Marcas**_
 
-- 🔗 [Link](Lenguaje_de_Marcas)
+- [Link](Lenguaje_de_Marcas)
 
 ---
-📃 Programación 📃
+ Programación
 
 Directorio de _**Programación**_
 ---
-- 🔗 [Link](Programacion)
+- [Link](Programacion)
 
-## 💻 Sistemas Informaticos 💻
+## Sistemas Informaticos
 
 Directorio de _**Sistemas Informaticos**_
 
-- 🔗 [Link](Sistemas_Informaticos)
+- [Link](Sistemas_Informaticos)
 
 
 ---
-### _**⚠️ Note: Se ira completando poco a poco**_
+### _** Note: Se ira completando poco a poco**_
 ---
 
 ### Firma
 
-👋 [@Izhan Lara Garcia](https://github.com/izhanlaragarcia) 
+[@Izhan Lara Garcia](https://github.com/izhanlaragarcia)
+[@Rafel Perez Tercero](https://github.com/rafelpereztercero) 
