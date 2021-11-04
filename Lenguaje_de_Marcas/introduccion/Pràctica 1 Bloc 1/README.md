@@ -112,13 +112,11 @@
 
 ## ¿De donde saco la informacion sobre la pagina web?
 
-Esta informacion es realicona con funciones, ya sea de JS, HTMl o CSS y es sacadad de diferentes documentacion, como por ejemplo:
+Esta informacion es realicona con funciones, ya sea de HTMl o CSS y es sacadad de diferentes documentacion, como por ejemplo:
 
 
 > https://www.w3schools.com/
-   
-> https://tecnops.es/sistema-rutas-solo-javascript/
-   
+      
 > https://www.youtube.com/
    
 > https://www.ejemplode.com/18-css/502-ejemplo_de_fondo_fijo_en_css.html
