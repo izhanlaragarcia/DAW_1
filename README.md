@@ -28,10 +28,11 @@ Directorio de _**Sistemas Informaticos**_
 
 
 ---
-### _** Note: Se ira completando poco a poco**_
+### _**Note: Se ira completando poco a poco**_
 ---
 
 ### Firma
 
 [@Izhan Lara Garcia](https://github.com/izhanlaragarcia)
-[@Rafel Perez Tercero](https://github.com/rafelpereztercero) 
+
+[@Rafel Perez Tercero](https://github.com/rafaelpereztercero) 
