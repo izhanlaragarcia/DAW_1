@@ -40,6 +40,8 @@ Directorio de _**Sistemas Informaticos**_
 
 ### Firma
 
+- Somos dos personas en este mini proyecto, pero esperamos que poco a poco vaya habiendo mas gente.
+
 [@Izhan Lara Garcia](https://github.com/izhanlaragarcia)
 
 [@Rafel Perez Tercero](https://github.com/rafaelpereztercero) 
