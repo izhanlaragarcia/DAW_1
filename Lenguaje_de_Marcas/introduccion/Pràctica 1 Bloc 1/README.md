@@ -134,7 +134,7 @@ Esta informacion es realicona con funciones, ya sea de HTMl o CSS y es sacadad d
 
 ## Pagina Inicial
 
-![](../img/index.PNG)
+![](https://github.com/izhanlaragarcia/Actividades_DAW_1/blob/main/Lenguaje_de_Marcas/introduccion/Pr%C3%A0ctica%201%20Bloc%201/img/index.PNG)
 
 ### Firma
 
