@@ -1,0 +1,98 @@
+/* Estilos de CSS pagina HOME*/
+/* Desktop */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* Body */
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  background-color: black;
+  background-image: url("https://image.slidesharecdn.com/coleresdifuminados-120306204028-phpapp01/95/coleres-difuminados-1-728.jpg?cb=1331066493");
+  background-attachment: fixed;
+  background-size: 200%;
+  background-repeat: no-repeat;
+  font-size: 18px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* Todo el cuador */
+.container-menu {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 4px;
+  font-family: "calibri";
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+}
+
+/* Mas welcome */
+/* Cmabio de texto */
+.titulo {
+  text-align: center;
+  font-size: 40px;
+}
+.info {
+  /* text-decoration: underline; */
+  font-size: 30px;
+}
+
+h4 {
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}
+
+/* Botones */
+.navegar {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid white;
+  font-family: "calibri";
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Frase de "estoy de acuerdo con los..." */
+.container-menu p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+/* Contenido botones */
+.container-menu a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Terminos */
+.container-menu p a {
+  text-decoration: underline;
+}
+
+/* Footer */
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  color: #566573;
+  font-size: 13px;
+}
+
+.copyright a {
+  color: #566573;
+}
