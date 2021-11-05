@@ -35,7 +35,7 @@ Directorio de _**Sistemas Informaticos**_
 > Un sistema informático es un sistema que permite almacenar y procesar información; es el conjunto de partes interrelacionadas: hardware, software y personal informático
 
 ---
-### _**Note: Se ira completando poco a poco**_
+### _**Nota: Se ira completando poco a poco**_
 ---
 
 ### Firma
